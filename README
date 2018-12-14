@@ -1,0 +1,30 @@
+Group 3 Student-Teacher Response System
+By Becca Araya, Taylor Santos, Alonzo Altamirano, Shengjie, and Jieun Park
+Written by Alonzo Altamirano
+Last Edit: May 1st, 2018
+
+File Structure:
+
+root/
+├── answers
+│   └── session-15:44:54-June-06-2018.txt
+├── quizes
+│   ├── Planet Quiz.qz
+│   └── SampleQuiz.qz
+├── Installation.pdf
+├── ProjectPlan.pdf
+├── UserManual.pdf
+├── student_view.py
+├── teacher_view.py
+└── README
+
+The root directory contains the documentation and the source code for our project.  Here are the contents of each file.
+1. ProjectPlan.pdf: Project Plan, Software Requirements, and Software Architectue/Design
+2. Installation.pdf: Instructions for how to install and run the application.
+3. UserManual.pdf: Instructions for using the application.
+4. student_view.py: The Python3 code for the student client.
+5. teacher_view.py: The Python3 code for the teacher client.
+
+The answers and quizes directories contain sample data to demonstrate the application functionality.
+1. session-15:44:54-June-06-2018.txt: An example of quiz results, indicating which questions were answered correctly by which students.
+2. Planet Quiz.qz and SampleQuiz.qz: Two examples of quizzes that can be sent from the teacher client to the student clients.
